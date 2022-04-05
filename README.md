@@ -17,5 +17,11 @@
 2. Max age by country
 <img width="1410" alt="image" src="https://user-images.githubusercontent.com/89392789/161647097-9a2d766c-5801-48ea-ad20-792a13cf306d.png">
 
-Tableau dashboard:
+
+
+## Phase 3: Dashboard comparison
+### PowerBI
+![image](https://user-images.githubusercontent.com/89392789/161662898-17594fc9-9976-495a-ab71-45ef02932f74.png)
+
+### Tableau dashboard:
 <img width="986" alt="image" src="https://user-images.githubusercontent.com/89392789/161662531-193cedf7-27da-41c0-886b-1d86c87b1159.png">
