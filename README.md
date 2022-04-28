@@ -14,11 +14,11 @@
 
 
 ### Phase 3: Sample Dashboard comparison
-* **PowerBI :*
+**PowerBI :*
 
 ![image](https://user-images.githubusercontent.com/89392789/161662898-17594fc9-9976-495a-ab71-45ef02932f74.png)
 
-* **Tableau dashboard :*
+**Tableau dashboard :*
 <img width="986" alt="image" src="https://user-images.githubusercontent.com/89392789/161662531-193cedf7-27da-41c0-886b-1d86c87b1159.png">
 
 ## Phase 4: Final Dashboard
