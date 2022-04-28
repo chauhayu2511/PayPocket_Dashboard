@@ -1,5 +1,5 @@
-# PayPocket visualization
-## Phase 1: Sample charts using PowerBI
+# PayPocket forecasting and prediction:
+
 1. Actual Series
 <img width="608" alt="Screen Shot 2022-04-27 at 8 48 50 PM" src="https://user-images.githubusercontent.com/89392789/165654444-504b9ecc-a8c0-4eb2-a745-4b6b6459b4b1.png">
 
