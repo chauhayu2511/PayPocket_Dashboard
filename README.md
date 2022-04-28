@@ -26,8 +26,8 @@
 ### Tableau dashboard:
 <img width="986" alt="image" src="https://user-images.githubusercontent.com/89392789/161662531-193cedf7-27da-41c0-886b-1d86c87b1159.png">
 
-## Phase 4: Final Dashboards
-### PowerBI
+## Phase 4: Final Dashboard
+### Payee
 <img width="797" alt="Screen Shot 2022-04-27 at 8 43 07 PM" src="https://user-images.githubusercontent.com/89392789/165653950-67345f06-d020-424a-a3c9-1b910dd13bd8.png">
 
 <img width="784" alt="Screen Shot 2022-04-27 at 8 43 26 PM" src="https://user-images.githubusercontent.com/89392789/165653979-06533671-cffa-4ccf-991c-0455e4d8d868.png">
