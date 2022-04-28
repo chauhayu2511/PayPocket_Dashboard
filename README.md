@@ -1,4 +1,4 @@
-# PayPocket visualization project
+# PayPocket visualization
 ## Phase 1: Sample charts using PowerBI
 1. U.S. states and claim amounts
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/89392789/160657705-c11ed2ee-0874-4430-8e69-08d15639c678.png">
@@ -19,9 +19,13 @@
 
 
 
-## Phase 3: Dashboard comparison
+## Phase 3: Sample Dashboard comparison
 ### PowerBI
 ![image](https://user-images.githubusercontent.com/89392789/161662898-17594fc9-9976-495a-ab71-45ef02932f74.png)
 
 ### Tableau dashboard:
 <img width="986" alt="image" src="https://user-images.githubusercontent.com/89392789/161662531-193cedf7-27da-41c0-886b-1d86c87b1159.png">
+
+## Phase 4: Final Dashboards
+### PowerBI
+https://drive.google.com/file/d/1TMuQRJD1eGPwLs6n81fFUpNZ2UrhCSIc/view
