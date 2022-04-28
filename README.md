@@ -28,9 +28,10 @@
 
 ## Phase 4: Final Dashboards
 ### PowerBI
+<img width="797" alt="Screen Shot 2022-04-27 at 8 43 07 PM" src="https://user-images.githubusercontent.com/89392789/165653950-67345f06-d020-424a-a3c9-1b910dd13bd8.png">
 
-<img width="799" alt="Screen Shot 2022-04-27 at 8 40 34 PM" src="https://user-images.githubusercontent.com/89392789/165653652-fc458659-0b1a-4154-8e5e-<img width="802" alt="Screen Shot 2022-04-27 at 8 40 51 PM" src="https://user-images.githubusercontent.com/89392789/165653677-a4a3768a-5802-41cc-a336-ab56d8ff046b.png">
-4911a3be0626.png">
+<img width="784" alt="Screen Shot 2022-04-27 at 8 43 26 PM" src="https://user-images.githubusercontent.com/89392789/165653979-06533671-cffa-4ccf-991c-0455e4d8d868.png">
+
 
 <img width="801" alt="Screen Shot 2022-04-27 at 8 41 11 PM" src="https://user-images.githubusercontent.com/89392789/165653710-3d8d4848-500f-4e6e-b0f7-914bdb428384.png">
 <img width="789" alt="Screen Shot 2022-04-27 at 8 41 39 PM" src="https://user-images.githubusercontent.com/89392789/165653753-143c912c-e9db-4c4a-92c1-29cfd43b40bc.png">
