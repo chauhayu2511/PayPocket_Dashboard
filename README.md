@@ -44,7 +44,7 @@
 ### 4. Loess Smoothing
 <img width="725" alt="Screen Shot 2022-04-27 at 8 50 49 PM" src="https://user-images.githubusercontent.com/89392789/165654627-402bd7c6-ab0c-4cf9-a6a7-b3298336398e.png">
 
-### 5. Siple Exponential Smoothing
+### 5. Simple Exponential Smoothing
 <img width="386" alt="Screen Shot 2022-04-27 at 8 51 14 PM" src="https://user-images.githubusercontent.com/89392789/165654666-d384ad79-1ac2-49db-9a36-dea984fdd409.png">
 
 * **Results:**
@@ -56,6 +56,7 @@ The Series is already smooth for the given dataset so, smoothening is not requir
 * **p-value :** 0.7535683308711256
 * **Number of Lags Used :** 12
 * **Number of Observations :** 431
+
 Weak evidence against null hypothesis,indicating it is Non-Stationary 
 
 ### 7. First order difference
@@ -72,10 +73,10 @@ Weak evidence against null hypothesis,indicating it is Non-Stationary
 
 ### 10. Encoding of data with two different techniques:
 * **i.) One hot encoding :**
-    Accuracy: 64.63%
+Accuracy: 64.63%
     
 * **ii.) Ordinal encoding :**
-    Accuracy: 67.35%
+Accuracy: 67.35%
  
  ### Results: 
  On our dataset, Ordinal transform gives better results than One hot encoder.
