@@ -72,10 +72,9 @@ Weak evidence against null hypothesis,indicating it is Non-Stationary
 <img width="767" alt="Screen Shot 2022-04-27 at 8 55 41 PM" src="https://user-images.githubusercontent.com/89392789/165655071-3387336a-4d1e-49b2-a40d-fcf850340572.png">
 
 ### 10. Encoding of data with two different techniques:
-* **i.) One hot encoding :**
+**i.) One hot encoding :**
 Accuracy: 64.63%
-    
-* **ii.) Ordinal encoding :**
+**ii.) Ordinal encoding :**
 Accuracy: 67.35%
  
  ### Results: 
